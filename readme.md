@@ -35,11 +35,22 @@ git clone https://github.com/Camiiraupp/QA-testing.git
  npm init -y
 ```
 
-<p align="justify">Rodando os testes:</p>
+
+<h3 align="justify" >:rocket: Rodando os testes:</h3>
 
 ```
 npx cypress open
 ```
+
+
+ - `Rodando em modo headless:`
+ 
+```
+npx cypress run
+```
+
+
+
 
 <h2> :small_orange_diamond: Descrição do Projeto </h2>
 
