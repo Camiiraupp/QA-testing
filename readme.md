@@ -35,11 +35,22 @@ git clone https://github.com/Camiiraupp/QA-testing.git
  npm init -y
 ```
 
-<p align="justify">Rodando os testes:</p>
+
+<h3 align="justify" >:rocket: Rodando os testes:</h3>
 
 ```
 npx cypress open
 ```
+
+
+ - `Rodando em modo headless:`
+ 
+```
+npx cypress run
+```
+
+
+
 
 <h2> :small_orange_diamond: Descrição do Projeto </h2>
 
@@ -58,3 +69,11 @@ npx cypress open
       - vagas.spec.js
   - `Support` Utilizada para arquivos de importação e comandos personalizados.
     - Nesta pasta coloquei as etapas, scripts e mapeamento de elementos dos testes.
+
+
+<h2> :small_orange_diamond: Links de apresentação: </h2>
+
+
+```
+https://www.loom.com/embed/a529e10a6de643a7ab78a7950d9d9a8e
+```
