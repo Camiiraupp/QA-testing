@@ -1,0 +1,17 @@
+{
+  "name": "testeqacoodesh",
+  "version": "1.0.0",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "cypress": "cypress open"
+  },
+  "author": "",
+  "license": "ISC",
+  "keywords": [],
+  "description": "",
+  "dependencies": {
+    "@faker-js/faker": "^7.6.0",
+    "cypress": "^9.7.0"
+  }
+}

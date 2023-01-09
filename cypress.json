@@ -1,0 +1,11 @@
+{
+  "baseUrl": "https://beta.coodesh.com/",
+  "viewportWidth": 1440,
+  "viewportHeight": 900,
+  "chromeWebSecurity": false,
+  "defaultCommandTimeout": 50000,
+  "slowCommandTimeout": 600000,
+  "updateState": 600000,
+  "updateTimeout": 600000,
+  "waitForPageToLoadSafeTimeout": 50000
+}
