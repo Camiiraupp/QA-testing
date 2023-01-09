@@ -69,3 +69,11 @@ npx cypress run
       - vagas.spec.js
   - `Support` Utilizada para arquivos de importação e comandos personalizados.
     - Nesta pasta coloquei as etapas, scripts e mapeamento de elementos dos testes.
+
+
+<h2> :small_orange_diamond: Links de apresentação: </h2>
+
+
+```
+https://www.loom.com/embed/a529e10a6de643a7ab78a7950d9d9a8e
+```
