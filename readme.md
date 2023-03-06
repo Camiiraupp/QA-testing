@@ -1,5 +1,5 @@
 <h2> :small_orange_diamond: Descrição do teste </h2>
-<p align="justify"> O teste consiste em acessar a página da Coodesh e verificar os seguintes passos: </p>
+<p align="justify"> O teste consiste em acessar a página  e verificar os seguintes passos: </p>
  
 - ` Se a página está carregando corretamente a home page`
 
@@ -74,6 +74,3 @@ npx cypress run
 <h2> :small_orange_diamond: Links de apresentação: </h2>
 
 
-```
-https://www.loom.com/embed/a529e10a6de643a7ab78a7950d9d9a8e
-```
